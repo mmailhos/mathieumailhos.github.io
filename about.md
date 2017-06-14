@@ -2,45 +2,39 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a software engineer even though I am more often refered as 'DevOps'.
+On the tech side, my passion is to develop a product, starting from scratch,
+up to its delivery on the market. What I prefer the most is the infrastructure
+part and to answer performance and scalability potential issues.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Nevertherless, I have what people call the 'millenial' spirit. Making an
+impact and learning on a daily basis are the two things that matters the most
+to me. I love being part of business and marketting discussions, always trying
+to bring "out of the box" ideas, to challenge points of view in the purpose of
+keep moving forward.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Entrepreneurship</li>
+	<li>Programming: Go, Python, Ruby, Java, Node.js</li>
+	<li>Databases: MySQL, MongoDB, Redis</li>
+	<li>Provisionning: Chef, Ansible</li>
+	<li>AWS: EC2, S3, RDS, Lambda, CloudFront, Cognito, Route53, ASG...</li>
+	<li>GCP: Compute Engine, Cloud Storage (...), Maps API</li>
+	<li>Tools: Git, Docker</li>
+	<li>CI/CD: Jenkins, Codeship</li>
+	<li>Serverless: Serverless Framework, AWS Lambda</li>
+	<li>Kubernetes: running a small production cluster for my mobile app</li>
+	<li>Others: cryptography, Cloud architectures</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Public Repos</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/MathieuMailhos/GoBtcMiner">CPU Bitcoin Miner in Go</a></li>
+	<li><a href="https://github.com/MathieuMailhos/p2p-webrtc-messaging-system">P2P Messaging System with WebRTC</a></li>
+	<li><a href="https://github.com/MathieuMailhos/sls-oauth-instagram">Serverless OAuth with Instagram and Firebase</a></li>
 </ul>
