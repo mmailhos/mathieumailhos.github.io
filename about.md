@@ -4,16 +4,19 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a software engineer even though I am more often refered as 'DevOps'.
+<p>I'm a software engineer even though I am more often refered as <i>DevOps</i>.
 On the tech side, my passion is to develop a product, starting from scratch,
-up to its delivery on the market. What I prefer the most is the infrastructure
-part and to answer performance and scalability potential issues.</p>
+up to its delivery on the market. My favorite part is building the infrastructure,
+hands-on the systems and answering performance and scalability challenges.</p>
 
-<p>Nevertherless, I have what people call the 'millenial' spirit. Making an
-impact and learning on a daily basis are the two things that matters the most
-to me. I love being part of business and marketting discussions, always trying
-to bring "out of the box" ideas, to challenge points of view in the purpose of
+<p>Besides that, I have what people call the <i>millenial</i> spirit. Making an
+impact and learning on a daily basis are the two things that matter the most
+to me. I love being involved in business and marketing discussions, always trying
+to bring <i>out of the box</i> ideas, to challenge points of view in the purpose of
 keep moving forward.</p>
+
+<p> I believe that the only way to make an actual disruptive product is to
+mix creativity and open-mindedness with strong technical skills </p>
 
 <h2>Skills</h2>
 
@@ -22,6 +25,7 @@ keep moving forward.</p>
 	<li>Programming: Go, Python, Ruby, Java, Node.js</li>
 	<li>Databases: MySQL, MongoDB, Redis</li>
 	<li>Provisionning: Chef, Ansible</li>
+	<li>Mobile Development: React-Native</li>
 	<li>AWS: EC2, S3, RDS, Lambda, CloudFront, Cognito, Route53, ASG...</li>
 	<li>GCP: Compute Engine, Cloud Storage (...), Maps API</li>
 	<li>Tools: Git, Docker</li>

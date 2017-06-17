@@ -14,15 +14,15 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://www.linkedin.com//in/mathieumailhos
+resume-url: https://www.linkedin.com/in/mathieumailhos
 
-url: https://koppl.in/indigo
+url: https://mathieu.mailhos.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-101179353-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
